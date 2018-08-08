@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/commons-codec-1.9.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/commons-lang3-3.4.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/commons-logging-1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/groovy-2.4.12.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/groovy-json-2.4.12.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/groovy-xml-2.4.12.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/hamcrest-library-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/httpclient-4.5.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/httpcore-4.4.6.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/httpmime-4.5.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/jackson-core-2.8.6.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/jaxb-api-2.2.12.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/rest-assured-3.1.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/tagsoup-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/json-path-3.1.0-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/rest-assured-3.1.0-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/rest-assured-common-3.1.0-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/xml-path-3.1.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/json-path-3.1.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/rest-assured-3.1.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/rest-assured-common-3.1.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/New folder/xml-path-3.1.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/rest-assured-3.1.0-dist/jackson-all-1.9.0.jar/jackson-all-1.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
